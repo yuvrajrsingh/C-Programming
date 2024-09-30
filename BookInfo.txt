@@ -1,0 +1,14 @@
+
+
+Here is the collection of books: 
+#1: Harry Potter by J.K. Rowling
+It is 299 pages and cost $9.99
+
+#2: Hunger Games by Suzanne Collins
+It is 399 pages and cost $19.99
+
+#3: The Lord of the Rings by J.R.R. Tolkein
+It is 499 pages and cost $29.99
+
+
+More books to come!
